@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="Book_Name">Book_Name</string>
+    <string name="Author_Name">Author_Name</string>
+    <string name="book_pages">Book_Pages</string>
+    <string name="add">ADD</string>
+</resources>
